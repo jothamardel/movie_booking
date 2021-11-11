@@ -1,4 +1,4 @@
-import Thtf from './assets/thtf.jpg'
+// import Thtf from './assets/thtf.jpg'
 
 
 function Card({title, description, _id, photoUrl}) {
